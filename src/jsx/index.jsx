@@ -38,7 +38,8 @@ export default function Index() {
                 <p>JavaScript</p>
                 <p>React JS</p>
                 <p>Linux</p>
-                <p>Git / GitHub</p>
+                <p>Git</p>
+                <p>GitHub</p>
               </div>
             </div>
           </div>
